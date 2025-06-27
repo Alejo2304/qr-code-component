@@ -15,4 +15,4 @@ From the comments on this solution, now I am taking more attention to the semant
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/alejo2304)
+- Frontend Mentor - [@Alejo2304](https://www.frontendmentor.io/profile/alejo2304)
